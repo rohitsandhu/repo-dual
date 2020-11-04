@@ -1,0 +1,219 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="918ddc42-b33d-429d-b226-1b18329a3004" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../../../apiback2/src/main/java/com/rohit/spring/apiback/dao/CarritoDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../apiback2/src/main/java/com/rohit/spring/apiback/dao/ClientDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../apiback2/src/main/java/com/rohit/spring/apiback/dao/FacturaDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../apiback2/src/main/java/com/rohit/spring/apiback/dao/LiniaCarritoDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../apiback2/src/main/java/com/rohit/spring/apiback/dao/LiniaFacturaDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../apiback2/src/main/java/com/rohit/spring/apiback/dao/ProducteDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../apiback2/src/main/java/com/rohit/spring/apiback/dao/ProducteStockDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../apiback2/src/main/java/com/rohit/spring/apiback/dao/RessenyaDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../apiback2/src/main/java/com/rohit/spring/apiback/entities/Carrito.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../apiback2/src/main/java/com/rohit/spring/apiback/entities/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../apiback2/src/main/java/com/rohit/spring/apiback/entities/Factura.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../apiback2/src/main/java/com/rohit/spring/apiback/entities/LiniaCarrito.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../apiback2/src/main/java/com/rohit/spring/apiback/entities/LiniaFactura.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../apiback2/src/main/java/com/rohit/spring/apiback/entities/Producte.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../apiback2/src/main/java/com/rohit/spring/apiback/entities/ProducteStock.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../apiback2/src/main/java/com/rohit/spring/apiback/entities/Ressenya.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../botigarohit/src/main/java/com/rohit/botiga/botigarohit/SpringSecurityConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../botigarohit/src/main/java/com/rohit/botiga/botigarohit/controller/ClientController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../botigarohit/src/main/java/com/rohit/botiga/botigarohit/dao/CarritoDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../botigarohit/src/main/java/com/rohit/botiga/botigarohit/dao/ClientDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../botigarohit/src/main/java/com/rohit/botiga/botigarohit/dao/FacturaDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../botigarohit/src/main/java/com/rohit/botiga/botigarohit/dao/LiniaCarritoDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../botigarohit/src/main/java/com/rohit/botiga/botigarohit/dao/LiniaFacturaDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../botigarohit/src/main/java/com/rohit/botiga/botigarohit/dao/ProducteDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../botigarohit/src/main/java/com/rohit/botiga/botigarohit/dao/ProducteStockDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../botigarohit/src/main/java/com/rohit/botiga/botigarohit/dao/RessenyaDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../botigarohit/src/main/java/com/rohit/botiga/botigarohit/entities/Carrito.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../botigarohit/src/main/java/com/rohit/botiga/botigarohit/entities/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../botigarohit/src/main/java/com/rohit/botiga/botigarohit/entities/Factura.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../botigarohit/src/main/java/com/rohit/botiga/botigarohit/entities/LiniaCarrito.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../botigarohit/src/main/java/com/rohit/botiga/botigarohit/entities/LiniaFactura.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../botigarohit/src/main/java/com/rohit/botiga/botigarohit/entities/Producte.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../botigarohit/src/main/java/com/rohit/botiga/botigarohit/entities/ProducteStock.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../botigarohit/src/main/java/com/rohit/botiga/botigarohit/entities/Ressenya.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../botigarohit/src/main/java/com/rohit/botiga/botigarohit/entities/wrapClass/LlistaClients.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../botigarohit/src/main/java/com/rohit/botiga/botigarohit/rest/RohitBotigaRest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../botigarohit/src/main/java/com/rohit/botiga/botigarohit/service/ClientService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../botigarohit/src/main/resources/static/css/styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../botigarohit/src/main/resources/templates/llistaClients.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../botigarohit/src/main/resources/templates/main.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../casaRural/Client.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../casaRural/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../casaRural/scripts.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../casaRural/styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../casaRuralGood/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../casaRuralGood/css/styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../casaRuralGood/scripts.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/prova_de_pagina.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/111111.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/2222222222.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/33333333333333.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/LOGO.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/LogoGood.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/about/1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/about/2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/about/3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/about/4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/close-icon.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/header-bg.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/imatgesCasa/1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/imatgesCasa/10.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/imatgesCasa/11.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/imatgesCasa/12.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/imatgesCasa/13.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/imatgesCasa/14.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/imatgesCasa/15.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/imatgesCasa/16.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/imatgesCasa/17.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/imatgesCasa/18.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/imatgesCasa/19.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/imatgesCasa/2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/imatgesCasa/20.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/imatgesCasa/21.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/imatgesCasa/3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/imatgesCasa/4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/imatgesCasa/5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/imatgesCasa/6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/imatgesCasa/7.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/imatgesCasa/8.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/imatgesCasa/9.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/logos/creative-market.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/logos/designmodo.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/logos/envato.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/logos/themeforest.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/map-image.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/navbar-logo.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/portfolio/01-full.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/portfolio/01-thumbnail.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/portfolio/02-full.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/portfolio/02-thumbnail.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/portfolio/03-full.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/portfolio/03-thumbnail.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/portfolio/04-full.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/portfolio/04-thumbnail.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/portfolio/05-full.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/portfolio/05-thumbnail.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/portfolio/06-full.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/portfolio/06-thumbnail.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/team/1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/team/1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/team/2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/team/2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/team/3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/team/3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/mail/contact_me.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/mail/contact_me.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/mail/jqBootstrapValidation.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/classes/Conexio.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/classes/Usuari.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/scripts.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/login.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/register.php" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+  </component>
+  <component name="ProjectId" id="1jhzoBYj928pzKMoyJaYG0aLlQX" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/classes" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="918ddc42-b33d-429d-b226-1b18329a3004" name="Default Changelist" comment="" />
+      <created>1604271284123</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1604271284123</updated>
+      <workItem from="1604271285161" duration="122000" />
+      <workItem from="1604328173297" duration="615000" />
+      <workItem from="1604344903453" duration="77000" />
+      <workItem from="1604423522218" duration="3370000" />
+      <workItem from="1604487975982" duration="3832000" />
+      <workItem from="1604500773714" duration="4607000" />
+      <workItem from="1604514525709" duration="4957000" />
+      <workItem from="1604525448171" duration="442000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="805" y="266" width="441" height="562" key="#com.intellij.ide.util.MemberChooser" timestamp="1604423887768">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="765" y="236" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1604271326447" />
+    <state x="805" y="266" width="441" height="562" key="#com.intellij.ide.util.MemberChooser/67.27.1853.1053@67.27.1853.1053" timestamp="1604423887768" />
+    <state x="776" y="310" width="424" height="484" key="FileChooserDialogImpl" timestamp="1604517332782">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="776" y="310" width="424" height="484" key="FileChooserDialogImpl/67.27.1853.1053@67.27.1853.1053" timestamp="1604517332782" />
+    <state x="624" y="272" width="729" height="561" key="NewPhpClassDialog" timestamp="1604517697875">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="624" y="272" width="729" height="561" key="NewPhpClassDialog/67.27.1853.1053@67.27.1853.1053" timestamp="1604517697875" />
+    <state x="789" y="478" width="399" height="149" key="NewPhpFileDialog" timestamp="1604517681322">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="789" y="478" width="399" height="149" key="NewPhpFileDialog/67.27.1853.1053@67.27.1853.1053" timestamp="1604517681322" />
+    <state x="761" y="426" key="git4idea.remote.GitConfigureRemotesDialog" timestamp="1604525690628">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="761" y="426" key="git4idea.remote.GitConfigureRemotesDialog/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1604525690628" />
+  </component>
+</project>
